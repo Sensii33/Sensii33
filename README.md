@@ -1,16 +1,12 @@
-### Hi there 👋
+👋 Hi, I'm Sensii33, a software developer.
+I'm interested in Three.js, WebGL & Canvas.
+I have 2 years of experience in development.
+I'm proud my youth and my ability to think creatively.(May be overconfident 😊)
 
-<!--
-**Sensii33/Sensii33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MY SKILLS
+- Html, Css, JavaScript, TypeScript
+- React.js, Vue.js, Next.js, Node.js
+- Three.js, WebGL, Canvas
+- Blender, Visualization, 3D Model, OpenGL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I'm always ready to work with you. Let's connect!
